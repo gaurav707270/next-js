@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Gaurav Kharate",
+      "email": "gaurav@example.com",
+      "phone": "9876543210",
+      "city": "Surat"
+    },
+    {
+      "id": "2",
+      "name": "Rahul Sharma",
+      "email": "rahul@example.com",
+      "phone": "9876543211",
+      "city": "Mumbai"
+    },
+    {
+      "id": "3",
+      "name": "Amit Patel",
+      "email": "amit@example.com",
+      "phone": "9876543212",
+      "city": "Ahmedabad"
+    },
+    {
+      "id": "4",
+      "name": "Priya Shah",
+      "email": "priya@example.com",
+      "phone": "9876543213",
+      "city": "Vadodara"
+    },
+    {
+      "id": "5",
+      "name": "Neha Joshi",
+      "email": "neha@example.com",
+      "phone": "9876543214",
+      "city": "Pune"
+    },
+    {
+      "id": "6",
+      "name": "Vishal Mehta",
+      "email": "vishal@example.com",
+      "phone": "9876543215",
+      "city": "Rajkot"
+    }
+  ]
+}
