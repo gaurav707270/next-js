@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Gaurav Kharate",
+      "email": "gaurav@example.com",
+      "phone": "9876543210",
+      "city": "Surat"
+    },
+    {
+      "id": "2",
+      "name": "Rahul Sharma",
+      "email": "rahul@example.com",
+      "phone": "9876543211",
+      "city": "Mumbai"
+    },
+    {
+      "id": "4",
+      "name": "Priya Shah",
+      "email": "priya@example.com",
+      "phone": "9876543213",
+      "city": "Vadodara"
+    },
+    {
+      "id": "5",
+      "name": "Neha Joshi",
+      "email": "neha@example.com",
+      "phone": "9876543214",
+      "city": "Pune"
+    },
+    {
+      "id": "6",
+      "name": "Vishal Mehta",
+      "email": "vishal@example.com",
+      "phone": "9876543215",
+      "city": "Rajkot"
+    },
+    {
+      "name": "Sachin kharate",
+      "email": "sachinkharate2004@gmail.com",
+      "phone": "09309968779",
+      "city": "Surat",
+      "id": "6SDSdIZqN4I"
+    },
+    {
+      "name": "Sachin kharate",
+      "email": "sachinkharate2004@gmail.com",
+      "phone": "09309968779",
+      "city": "Surat",
+      "id": "746yYjpcENA"
+    },
+    {
+      "name": "Sachin kharate",
+      "email": "sachinkharate2004@gmail.com",
+      "phone": "09309968779",
+      "city": "Surat",
+      "id": "vDI7L-hCbPs"
+    },
+    {
+      "name": "Sachin kharate",
+      "email": "sachinkharate2004@gmail.com",
+      "phone": "09309968779",
+      "city": "Surat",
+      "id": "rDmv1Imm8-E"
+    },
+    {
+      "name": "Sachin kharate",
+      "email": "sachinkharate2004@gmail.com",
+      "phone": "09309968779",
+      "city": "Surat",
+      "id": "1andW2UDzTU"
+    },
+    {
+      "name": "Sachin kharate",
+      "email": "sachinkharate2004@gmail.com",
+      "phone": "09309968779",
+      "city": "Surat",
+      "id": "uMaqlY8E-WE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
