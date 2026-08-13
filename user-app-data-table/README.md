@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 👤 User Data Manager
 
-## Getting Started
+A simple and user-friendly **User Data Manager** application designed to store, manage, update, and delete user information efficiently.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+* ➕ Add new users
+* 👀 View user details
+* ✏️ Update existing user information
+* 🗑️ Delete users
+* 🔍 Search users
+* 📋 Display user data in an organized format
+* ✅ Form validation
+* 💾 Data storage and management
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Technologies Used
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+* HTML5
+* CSS3
+* JavaScript
+* [Add your backend/database technology here, if applicable]
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📂 Project Purpose
 
-## Learn More
+The main purpose of this project is to practice **CRUD operations (Create, Read, Update, Delete)** and understand how user data can be managed in a web application.
 
-To learn more about Next.js, take a look at the following resources:
+## 🎯 Learning Outcomes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Through this project, I practiced:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+* JavaScript fundamentals
+* DOM manipulation
+* Form handling and validation
+* CRUD operations
+* Data management
+* Responsive UI development
+* Frontend and backend communication
 
-## Deploy on Vercel
+## ▶️ How to Run
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Clone this repository.
+2. Open the project folder in VS Code.
+3. Run the application using your preferred development server.
+4. Open it in your browser.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📌 Future Improvements
+
+* User authentication and login
+* MongoDB database integration
+* Admin dashboard
+* API integration
+* User profile management
+* Improved responsive design
+
+## 👨‍💻 Author
+
+**Sachin Kharate**
+
+B.Tech – Information Technology
+Bhagwan Mahavir University (BMU), Surat
