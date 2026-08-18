@@ -12,7 +12,7 @@
 
     const handleCreate = async (formData) => {
         setSubmitting(true);
-        setError(null);
+        // setError(null);
         try {
             await createProject(formData);
             router.push("/projects");
