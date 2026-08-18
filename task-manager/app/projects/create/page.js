@@ -8,7 +8,7 @@
 // export default function CreateProjectPage() {
     // const router = useRouter();
     // const [submitting, setSubmitting] = useState(false);
-    const [error, setError] = useState(null);
+    // const [error, setError] = useState(null);
 
     // const handleCreate = async (formData) => {
         // setSubmitting(true);
