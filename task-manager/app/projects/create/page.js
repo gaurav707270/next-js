@@ -11,7 +11,7 @@ export default function CreateProjectPage() {
     const [error, setError] = useState(null);
 
     const handleCreate = async (formData) => {
-        // setSubmitting(true);
+        setSubmitting(true);
         setError(null);
         try {
             await createProject(formData);
