@@ -6,7 +6,7 @@ import ProjectForm from "../../components/ProjectForm";
 import { createProject } from "../../../services/projectApi";
 
 export default function CreateProjectPage() {
-    // const router = useRouter();
+    const router = useRouter();
     const [submitting, setSubmitting] = useState(false);
     const [error, setError] = useState(null);
 
