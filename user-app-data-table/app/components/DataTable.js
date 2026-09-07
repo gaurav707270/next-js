@@ -17,7 +17,7 @@ const ITEMS_PER_PAGE = 5;
 
     // const [users, setUsers] = useState([]);
 
-    // const [loading, setLoading] = useState(true);
+    const [loading, setLoading] = useState(true);
 
     const [search, setSearch] = useState("");
 
