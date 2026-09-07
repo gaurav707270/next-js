@@ -8,7 +8,7 @@ import UserForm from "./UserForm";
 import Pagination from "./Pagination";
 import UserViewModal from "./UserViewModal";
 
-// const API_URL = "http://localhost:3001/users";
+const API_URL = "http://localhost:3001/users";
 
 const ITEMS_PER_PAGE = 5;
 
