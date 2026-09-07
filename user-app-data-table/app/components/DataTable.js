@@ -13,7 +13,7 @@
 // const ITEMS_PER_PAGE = 5;
 
 
-export default function DataTable() {
+// export default function DataTable() {
 
     const [users, setUsers] = useState([]);
 
