@@ -15,7 +15,7 @@
 
 // export default function DataTable() {
 
-    const [users, setUsers] = useState([]);
+    // const [users, setUsers] = useState([]);
 
     const [loading, setLoading] = useState(true);
 
