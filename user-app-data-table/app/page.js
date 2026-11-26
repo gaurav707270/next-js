@@ -2,7 +2,7 @@ import DataTable from "./components/DataTable";
 
 export default function Home() {
   return (
-    // <main className="min-h-screen bg-gray-100">
+    <main className="min-h-screen bg-gray-100">
 // 
       // <div className="mx-auto max-w-7xl p-4 md:p-10">
 
